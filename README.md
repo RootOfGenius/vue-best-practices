@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/hieudt-2054/vue-best-practices.svg?style=svg)](https://circleci.com/gh/hieudt-2054/vue-best-practices)
+
 # Client
 
 ## Project setup
@@ -14,3 +16,9 @@ yarn serve
 ```
 yarn build
 ```
+
+### Lint and fixes
+```
+yarn lint
+```
+
