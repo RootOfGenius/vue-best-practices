@@ -2,9 +2,14 @@
 
 # Client
 
-## Project setup
+## Docker Guide
 ```
-yarn
+docker-compose up
+```
+
+## Access bash container
+```
+docker-compose exec frontend sh
 ```
 
 ### Compiles and hot-reloads for development
